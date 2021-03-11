@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rubens A. Amaro Jr. / Postdoctoral Research"
+title                    : "Rubens A. Amaro Jr."
 title_separator          : "-"
 name                     : &name "Rubens A. Amaro Jr."
 description              : &description "personal description"
