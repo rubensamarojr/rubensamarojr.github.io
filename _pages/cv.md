@@ -69,7 +69,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Reserach interests
+Research interests
 ======
 * Particle-based methods (MPS, SPH)
 * Computational fluid dynamics
