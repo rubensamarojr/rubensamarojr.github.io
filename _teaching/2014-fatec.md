@@ -1,5 +1,5 @@
 ---
-title: "Lecturer"
+title: "Lecturer at FATEC-SP"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-fatec

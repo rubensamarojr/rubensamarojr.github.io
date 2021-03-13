@@ -19,7 +19,7 @@ Work experience
 ======
 * Oct. 2010 - present: Research
   * Numerical Offshore Tank Laboratory of the University of São Paulo - TPN-USP
-  * Supervisor: Professor Liang-Yee CHeng
+  * Supervisor: Professor Liang-Yee Cheng
 
 * Oct. 2018 - Apr. 2019: Research Intern
   * Polytechnique Montreal
