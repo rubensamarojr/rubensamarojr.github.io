@@ -72,10 +72,12 @@ Teaching
 Research interests
 ======
 * Particle-based methods (MPS, SPH)
+* Coupled solution strategies (particle-mesh coupling)
 * Computational fluid dynamics
 * Experimental fluid dynamics
 * Fluid-structure interaction
-* Coastal engineering
 * Sloshing
 * Green water
+* Ice-wave interaction
+* Coastal engineering
 * Water Supply and Drainage for Buildings
