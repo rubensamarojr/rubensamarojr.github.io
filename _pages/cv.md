@@ -11,30 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechatronics Engineering, Polytechnique School of the University of São Paulo (EPUSP), 2009
+* M.S. in Civil Engineering, Polytechnique School of the University of São Paulo (EPUSP), 2013
+* Ph.D in Civil Engineering, Polytechnique School of the University of São Paulo (EPUSP), 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct. 2010 - present: Research
+  * Numerical Offshore Tank Laboratory of the University of São Paulo - TPN-USP
+  * Supervisor: Professor Liang-Yee CHeng
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Oct. 2018 - Apr. 2019: Research Intern
+  * Polytechnique Montreal
+  * Supervisor: Professor Ahmad Shakibaeinia
+
+* May 2009 - Dec. 2009: Intern
+  * Institute for Technological Research (IPT)
+
+* Jul. 2008 - Jan. 2009:  Scientific Research
+  * Polytechnique School of the University of São Paulo
+  * Supervisor: Professor Ettore Apolonio de Barros
+
+* Oct. 2008 - Feb. 2009:  Scientific Research
+  * Polytechnique School of the University of São Paulo
+  * Supervisor: Professor Eliane Aparecida. F. A. Fadigas
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages
+  * C
+  * C++
+* Engineering package
+  * Matlab
+  * Scilab
+  * Mathematica
+* CAD
+  * Solidworks
+  * Sketchup
+* Data processing software
+  * Paraview
 
 Publications
 ======
@@ -54,6 +69,13 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Reserach interests
 ======
-* Currently signed in to 43 different slack teams
+* Particle-based methods (MPS, SPH)
+* Computational fluid dynamics
+* Experimental fluid dynamics
+* Fluid-structure interaction
+* Coastal engineering
+* Sloshing
+* Green water
+* Water Supply and Drainage for Buildings
