@@ -19,8 +19,10 @@ Fundamentals of C++ for numerical simulation
 Visualize C++ code execution to learn online
 <a href="http://pythontutor.com/cpp.html#mode=edit" target="_blank">pythontutor</a>
 
-Good practices of C++ (in Portuguese)
-<a href="https://github.com/kelvins/Boas-Praticas-Cplusplus" target="_blank">Boas-Praticas-Cplusplus</a>
+Good practices of C++:
+- <a href="https://google.github.io/styleguide/cppguide.html" target="_blank">Google C++ Style Guide</a>
+- <a href="http://geosoft.no/development/cppstyle.html" target="_blank">C++ Programming Style Guidelines</a>
+- <a href="https://github.com/kelvins/Boas-Praticas-Cplusplus" target="_blank">Boas-Praticas-Cplusplus</a>(in Portuguese)
 
 C++ Editors:
 - <a href="https://www.sublimetext.com/" target="_blank">Sublime text</a>
