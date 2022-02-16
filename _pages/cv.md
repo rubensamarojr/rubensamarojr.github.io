@@ -14,10 +14,15 @@ Education
 * B.S. in Mechatronics Engineering, Polytechnique School of the University of São Paulo (EPUSP), 2009
 * M.S. in Civil Engineering, Polytechnique School of the University of São Paulo (EPUSP), 2013
 * Ph.D in Civil Engineering, Polytechnique School of the University of São Paulo (EPUSP), 2020
+* Post-doc in Civil Engineering, Polytechnique School of the University of São Paulo (EPUSP), 2021
 
 Work experience
 ======
-* Oct. 2010 - present: Research
+* Feb. 2022 - present: Research
+  * Institute of Mathematics and Computer Sciences from the University of São Paulo - ICMC-USP
+  * Supervisor: Professor Fabricio Simeoni de Sousa
+
+* Oct. 2010 - Dec 2021: Research
   * Numerical Offshore Tank Laboratory of the University of São Paulo - TPN-USP
   * Supervisor: Professor Liang-Yee Cheng
 
