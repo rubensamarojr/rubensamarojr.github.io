@@ -13,7 +13,7 @@ I am a Postdoctoral Research at the [Institute of Mathematics and Computer Scien
 I earned my Ph.D. (2020) and Master's degree (2013) in [Civil Engineering from the University of São Paulo](http://ppgec.poli.usp.br/en/) and graduated (2009) in [Mechanical Engineering - Automation and Systems from the University of São Paulo](http://www.pmr.poli.usp.br/). My experience is in the Mechanical Engineering with emphasis on dynamics of fluids and elastic/rigid bodies, working mainly on the following topics: 
 
 * Computer simulation
-* Meshless particle-based methods: Moving Particle Semi-implicit (MPS), Smoothed Particle Hydrodynamics (SPH)
+* Meshless particle-based methods (MPS, SPH)
 * Fluid-structure interaction
 * Hydroelasticity
 
