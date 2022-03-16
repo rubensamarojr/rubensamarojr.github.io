@@ -31,15 +31,17 @@ SPH solver
 
 <a href="http://www.dual.sphysics.org" target="_blank">DualSPHysics</a>
 
-<a href="http://wiki.manchester.ac.uk/sphysics/index.php/Main_Page" target="_blank">SPHysics</a>
+<a href="https://www.sphinxsys.org/" target="_blank">SPHinXsys</a>
 
 <a href="http://www.gpusph.org" target="_blank">GPUSPH</a>
+
+<a href="https://github.com/InteractiveComputerGraphics/SPlisHSPlasH" target="_blank">SPlisHSPlasH</a>
 
 <a href="https://github.com/sanguinariojoe/aquagpusph" target="_blank">Aquagpusph</a>
 
 <a href="https://github.com/AndreaAmicarelliRSE/SPHERA" target="_blank">SPHERA</a>
 
-<a href="https://github.com/InteractiveComputerGraphics/SPlisHSPlasH" target="_blank">SPlisHSPlasH</a>
+<a href="http://wiki.manchester.ac.uk/sphysics/index.php/Main_Page" target="_blank">SPHysics</a>
 
 Framework for particle methods
 -----
