@@ -17,4 +17,6 @@ I earned my Ph.D. (2020) and Master's degree (2013) in [Civil Engineering from t
 * Fluid-structure interaction
 * Hydroelasticity
 
+I am a developer of the [PolyMPS](https://github.com/rubensamarojr/polymps), a mesh-free Lagrangian particle-based code to simulate free-surface flow using the Moving Particle Simulation/Semi-implicit (MPS) method.
+
 You can find more academic information in my [CNPq Lattes CV](http://lattes.cnpq.br/5261068221495559).
