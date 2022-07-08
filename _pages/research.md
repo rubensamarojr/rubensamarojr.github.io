@@ -17,6 +17,9 @@ My research are related to the development of computational models and their app
 * Coupled solution strategies (particle-mesh coupling)
 <br/><br/><img src='/images/dam_liao_mps_fem.gif' width="700">
 
+* Offshore renewable energy
+<br/><br/><img src='/images/ABS3D_T02p80_A00p25_lo03p125e-2_free.gif' width="700">
+
 * Fluid-structure interaction
 <br/><br/><img src='/images/dambreak_multi_6b_d02_0100_BASE005_BODY015_v2_iso.gif' width="350" >
 <img src='/images/dambreak_multi_3b_d02_0125_BASE005_BODY015_v2_iso.gif' width="350">
