@@ -11,8 +11,10 @@ tags:
   - c++
 ---
 
-Below, you can find a very good material to learn about particle methods
+Below, you can find a very good material to learn about particle methods.
 
 <a href="https://interactivecomputergraphics.github.io/SPH-Tutorial" target="_blank">SPH course</a>
 
 <a href="https://lucasschuermann.com/writing/implementing-sph-in-2d" target="_blank">Implementation of SPH 2D</a>
+
+<a href="https://www.youtube.com/watch?v=-0m05gzk8nk" target="_blank">Python implementation SPH 2D</a>

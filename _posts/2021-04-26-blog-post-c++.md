@@ -8,7 +8,7 @@ tags:
   - editor
 ---
 
-Here you can find a list of useful links about c++:
+Here you can find a list of useful links about C++
 
 C++ Beginner lessons
 <a href="https://www.youtube.com/watch?v=vLnPwxZdW4Y" target="_blank">youtube video</a>
@@ -26,4 +26,4 @@ Good practices of C++:
 
 C++ Editors:
 - <a href="https://www.sublimetext.com/" target="_blank">Sublime text</a>
-- <a href="https://atom.io/" target="_blank">Atom</a>
+- <a href="https://code.visualstudio.com" target="_blank">Visual Studio</a>

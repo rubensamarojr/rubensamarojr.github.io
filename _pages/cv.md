@@ -46,6 +46,7 @@ Skills
 * Programming languages
   * C
   * C++
+  * Python
 * Engineering package
   * Matlab
   * Scilab
@@ -80,11 +81,12 @@ Research interests
 ======
 * Particle-based methods (MPS, SPH)
 * Coupled solution strategies (particle-mesh coupling)
-* Computational fluid dynamics
-* Experimental fluid dynamics
+* Computational fluid dynamics (CFD)
+* Hydroelasticity
 * Fluid-structure interaction
 * Sloshing
 * Green water
-* Ice-wave interaction
+* Offshore renewable energy
 * Coastal engineering
+* Ice-wave interaction
 * Water Supply and Drainage for Buildings
