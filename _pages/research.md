@@ -21,7 +21,15 @@ My research are related to the development of computational models and their app
 <br/><br/><img src='/images/ABS3D_T02p80_A00p25_lo03p125e-2_free.gif' width="700">
 
 <br/><br/>
-<video src="https://user-images.githubusercontent.com/20632175/182654476-a57408c2-3204-4045-b068-21a994842d9b.mp4" playsinline autoplay muted loop controls="controls" style="max-width: 700;">
+<video src="https://user-images.githubusercontent.com/20632175/182654476-a57408c2-3204-4045-b068-21a994842d9b.mp4" playsinline autoplay muted loop controls="controls" style="max-width: 200px;">
+</video>
+
+<br/><br/>
+<video src="https://user-images.githubusercontent.com/20632175/182654476-a57408c2-3204-4045-b068-21a994842d9b.mp4" playsinline autoplay muted loop controls="controls" style="max-width: 400px;">
+</video>
+
+<br/><br/>
+<video src="https://user-images.githubusercontent.com/20632175/182654476-a57408c2-3204-4045-b068-21a994842d9b.mp4" playsinline autoplay muted loop controls="controls" style="max-width: 700px;">
 </video>
 
 * Fluid-structure interaction
