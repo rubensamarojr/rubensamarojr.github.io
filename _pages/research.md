@@ -32,7 +32,7 @@ My research are related to the development of computational models and their app
 
 * Fluid-structure interaction
 <br/><br/>
-<video src="https://user-images.githubusercontent.com/20632175/182658603-88eea1b5-32ff-4edc-8f9d-4601403eb633.mp4" playsinline autoplay muted loop controls="controls" style="max-width: 700px;">
+<video src="https://user-images.githubusercontent.com/20632175/182658603-88eea1b5-32ff-4edc-8f9d-4601403eb633.mp4" playsinline autoplay muted loop controls="controls" style="max-width: 500px;">
 </video>
 
 * Sloshing
