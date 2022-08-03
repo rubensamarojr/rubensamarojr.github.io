@@ -11,10 +11,6 @@ My research are related to the development of computational models and their app
 
 * Particle-based methods (MPS, SPH)
 * Computational fluid dynamics
-<br/><br/>
-<video src="https://user-images.githubusercontent.com/20632175/182661348-2c7ec66c-f9c3-4e97-bbe5-382a4942ca4e.mp4" playsinline autoplay muted loop controls="controls" style="max-width: 500px;">
-</video>
-
 * Experimental fluid dynamics
 * Coupled solution strategies (particle-mesh coupling)
 <br/><br/>

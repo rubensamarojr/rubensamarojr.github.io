@@ -19,4 +19,8 @@ I earned my Ph.D. (2020) and Master's degree (2013) in [Civil Engineering from t
 
 I am a developer of the [PolyMPS](https://github.com/rubensamarojr/polymps), a mesh-free Lagrangian particle-based code to simulate free-surface flow using the Moving Particle Simulation/Semi-implicit (MPS) method.
 
+<br/><br/>
+<video src="https://user-images.githubusercontent.com/20632175/182661348-2c7ec66c-f9c3-4e97-bbe5-382a4942ca4e.mp4" playsinline autoplay muted loop controls="controls" style="max-width: 700px;">
+</video>
+
 You can find more academic information in my [CNPq Lattes CV](http://lattes.cnpq.br/5261068221495559).
