@@ -12,9 +12,9 @@ tags:
 Here you can find a list of useful links about C++ and Python
 
 Cheatsheets
-<a href="https://www.codewithharry.com/blogpost/cpp-cheatsheet" target="_blank">C+ +Cheatsheet</a>
-<a href="https://www.codewithharry.com/tutorial/python" target="_blank">Python Cheatsheet</a>
-<a href="https://cheatsheets.quantecon.org" target="_blank">MATLAB–Python–Julia cheatsheet</a>
+- <a href="https://www.codewithharry.com/blogpost/cpp-cheatsheet" target="_blank">C+ +Cheatsheet</a>
+- <a href="https://www.codewithharry.com/tutorial/python" target="_blank">Python Cheatsheet</a>
+- <a href="https://cheatsheets.quantecon.org" target="_blank">MATLAB–Python–Julia cheatsheet</a>
 
 C++ Beginner lessons
 <a href="https://www.youtube.com/watch?v=vLnPwxZdW4Y" target="_blank">youtube video</a>
