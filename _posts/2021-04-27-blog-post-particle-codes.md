@@ -16,6 +16,8 @@ Extensive list of numerical codes related to particle methods.
 MPS solver
 ------
 
+<a href="https://github.com/rubensamarojr/polymps" target="_blank">PolyMPS</a>
+
 <a href="https://github.com/andreluizbvs/VoxarMPS" target="_blank">Voxar MPS</a>
 
 <a href="https://github.com/s6s3/TinyMPS" target="_blank">TinyMPS</a>
