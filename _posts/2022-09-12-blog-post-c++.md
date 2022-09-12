@@ -1,18 +1,23 @@
 ---
 title: 'Useful C++ and Python links'
-date: 2021-04-26
-permalink: /posts/2021/04/blog-post-c++/
+date: 2022-09-12
+permalink: /posts/2022/09/blog-post-c++/
 tags:
   - code
   - c++
+  - python
   - editor
   - cheatsheet
 ---
 
-Here you can find a list of useful links about C++ and Python
+Here you can find a list of useful links about C++ and other languages, e.g., Python, Julia, Matlab
 
-Cheatsheets
-- <a href="https://www.codewithharry.com/blogpost/cpp-cheatsheet" target="_blank">C+ +Cheatsheet</a>
+
+Collection of various C++ learning resources
+- <a href="https://hackingcpp.com/index.html" target="_blank">hacking C++</a>
+
+Cheatsheets (C++, Python, Julia, Matlab)
+- <a href="https://www.codewithharry.com/blogpost/cpp-cheatsheet" target="_blank">C++ Cheatsheet</a>
 - <a href="https://www.codewithharry.com/tutorial/python" target="_blank">Python Cheatsheet</a>
 - <a href="https://cheatsheets.quantecon.org" target="_blank">MATLAB–Python–Julia cheatsheet</a>
 
