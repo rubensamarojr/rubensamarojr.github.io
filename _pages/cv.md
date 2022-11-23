@@ -20,7 +20,7 @@ Work experience
 ======
 * Feb. 2022 - present: Research
   * Institute of Mathematics and Computer Sciences from the University of São Paulo - ICMC-USP
-  * Supervisor: Professor [Fabricio Simeoni de Sousa](https://sites.icmc.usp.br/fsimeoni/pmwiki/pmwiki.php)
+  * Supervisor: Professor [Fabricio Simeoni de Sousa](https://sites.google.com/icmc.usp.br/fssousa/home)
 
 * Oct. 2010 - Dec 2021: Research
   * Numerical Offshore Tank Laboratory of the University of São Paulo - TPN-USP
@@ -28,7 +28,7 @@ Work experience
 
 * Oct. 2018 - Apr. 2019: Research Intern
   * Polytechnique Montreal
-  * Supervisor: Professor [Ahmad Shakibaeinia](http://www.professeurs.polymtl.ca/ahmad.shakibaeinia/)
+  * Supervisor: Professor [Ahmad Shakibaeinia](http://www.professeurs.polymtl.ca/ahmad.shakibaeinia)
 
 * May 2009 - Dec. 2009: Intern
   * Institute for Technological Research (IPT)
