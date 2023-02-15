@@ -23,3 +23,6 @@ A brief writeup to implement a basic 2D smoothed particle hydrodynamics (SPH) so
 
 Youtube tutorial to implement a basic 2D smoothed particle hydrodynamics (SPH) solver in Python 
 - <a href="https://youtu.be/-0m05gzk8nk" target="_blank">Python implementation SPH 2D</a>
+
+Simple smoothed particle hydrodynamics (SPH) dam-break simulation in Julia
+- <a href="https://github.com/AhmedSalih3d/SPHExample" target="_blank">Julia implementation SPH 2D/3D</a>
