@@ -19,10 +19,13 @@ State-of-the-art simulation methods for rigid bodies, deformable solids and flui
 - <a href="https://interactivecomputergraphics.github.io/SPH-Tutorial" target="_blank">SPH course</a>
 
 A brief writeup to implement a basic 2D smoothed particle hydrodynamics (SPH) solver in C++
-- <a href="https://lucasschuermann.com/writing/implementing-sph-in-2d" target="_blank">Implementation of SPH 2D</a>
+- <a href="https://lucasschuermann.com/writing/implementing-sph-in-2d" target="_blank">C++ Implementation of SPH 2D</a>
 
 Youtube tutorial to implement a basic 2D smoothed particle hydrodynamics (SPH) solver in Python 
 - <a href="https://youtu.be/-0m05gzk8nk" target="_blank">Python implementation SPH 2D</a>
 
+Parallelized library for smoothed particle hydrodynamics (SPH) 2d/3d in Julia
+- <a href="https://ondrejkincl.github.io/SmoothedParticles.jl/dev/index.html" target="_blank">Parallel Julia implementation SPH 2D/3D</a>
+
 Simple smoothed particle hydrodynamics (SPH) dam-break simulation in Julia
-- <a href="https://github.com/AhmedSalih3d/SPHExample" target="_blank">Julia implementation SPH 2D/3D</a>
+- <a href="https://github.com/AhmedSalih3d/SPHExample" target="_blank">Simple Julia implementation SPH 2D/3D</a>
