@@ -33,6 +33,8 @@ Video editor
 Data extraction
 -----
 
+<a href="https://automeris.io/WebPlotDigitizer" target="_blank">WebPlotDigitizer</a> – Web based tool to extract data from plots, images, and maps
+
 <a href="http://markummitchell.github.io/engauge-digitizer" target="_blank">Engauge digitizer</a> – Extracts data points from images of graphs
 
 <a href="https://physlets.org/tracker" target="_blank">Tracker</a> – Video analysis and modelling tool
