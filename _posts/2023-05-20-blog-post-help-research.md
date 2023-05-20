@@ -1,7 +1,7 @@
 ---
 title: 'Research tips'
-date: 2022-08-04
-permalink: /posts/2022/08/blog-post-help-research/
+date: 2023-05-20
+permalink: /posts/2023/05/blog-post-help-research/
 tags:
   - research
   - cheatsheet
@@ -10,6 +10,8 @@ tags:
 ---
 
 Several tips and material to help academic researchers.
+
+<a href="https://www.jabref.org" target="_blank">Cross-platform citation and reference management software used to collect, organize and search bibliographic information</a>
 
 <a href="https://research.siggraph.org/blog/guides/writing-your-first-acm-siggraph-tog-paper" target="_blank">How to prepare a paper</a>
 
