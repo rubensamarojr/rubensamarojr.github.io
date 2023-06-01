@@ -12,9 +12,9 @@ I am a Postdoctoral Research (2022-2024) at the [Institute of Mathematics and Co
 
 Before this:
 
-* I was Postdoctoral Research at the [Civil Engineering from the University of São Paulo](http://ppgec.poli.usp.br/en) in 2021.
-* I earned my Ph.D. (2020) and Master's degree (2013) in [Civil Engineering from the University of São Paulo](http://ppgec.poli.usp.br/en) 
-* I graduated (2009) in [Mechanical Engineering - Automation and Systems from the University of São Paulo](http://www.pmr.poli.usp.br). 
+* I was Postdoctoral Research at the [Civil Engineering from the USP](http://ppgec.poli.usp.br/en) in 2021.
+* I earned my Ph.D. (2020) and Master's degree (2013) in [Civil Engineering from the USP](http://ppgec.poli.usp.br/en) 
+* I graduated (2009) in [Mechanical Engineering - Automation and Systems from the USP](http://www.pmr.poli.usp.br). 
 
 My experience is in the Mechanical Engineering with emphasis on dynamics of fluids and elastic/rigid bodies, working mainly on the following topics: 
 
@@ -23,9 +23,10 @@ My experience is in the Mechanical Engineering with emphasis on dynamics of flui
 * Fluid-structure interaction
 * Hydroelasticity
 
-I am developer of the open-source code [PolyMPS](https://github.com/rubensamarojr/polymps), a mesh-free Lagrangian particle-based framework to simulate free-surface flow using the Moving Particle Simulation/Semi-implicit (MPS) method.
+I am developer of the open-source code [PolyMPS](https://github.com/rubensamarojr/polymps), a Lagrangian particle-based framework to simulate free-surface flows using the Moving Particle Semi-implicit (MPS) method.
 
 <video src="https://user-images.githubusercontent.com/20632175/182661348-2c7ec66c-f9c3-4e97-bbe5-382a4942ca4e.mp4" playsinline autoplay muted loop controls="controls" style="max-width: 700px;">
 </video>
+
 
 You can find more academic information in my [CNPq Lattes CV](http://lattes.cnpq.br/5261068221495559).
