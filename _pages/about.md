@@ -12,9 +12,9 @@ I am a Postdoctoral Research (2022-2024) at the [Institute of Mathematics and Co
 
 Before this:
 
-* I was Postdoctoral Research at the [Civil Engineering from the USP](http://ppgec.poli.usp.br/en) in 2021.
+* I was Postdoctoral Research (2021) at the [Civil Engineering from the USP](http://ppgec.poli.usp.br/en)
 * I earned my Ph.D. (2020) and Master's degree (2013) in [Civil Engineering from the USP](http://ppgec.poli.usp.br/en) 
-* I graduated (2009) in [Mechanical Engineering - Automation and Systems from the USP](http://www.pmr.poli.usp.br). 
+* I graduated (2009) in [Mechanical Engineering - Automation and Systems from the USP](http://www.pmr.poli.usp.br)
 
 My experience is in the Mechanical Engineering with emphasis on dynamics of fluids and elastic/rigid bodies, working mainly on the following topics: 
 

@@ -258,12 +258,11 @@ timezone: America/Sao_Paulo # http://en.wikipedia.org/wiki/List_of_tz_database_t
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
@@ -290,9 +289,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-article_archive:
-  type: liquid
-  path: /articles/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
