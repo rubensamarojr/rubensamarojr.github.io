@@ -33,7 +33,7 @@ Visualize C++ code execution to learn online
 Good practices of C++:
 - <a href="https://google.github.io/styleguide/cppguide.html" target="_blank">Google C++ Style Guide</a>
 - <a href="http://geosoft.no/development/cppstyle.html" target="_blank">C++ Programming Style Guidelines</a>
-- <a href="https://github.com/kelvins/Boas-Praticas-Cplusplus" target="_blank">Boas-Praticas-Cplusplus</a>(in Portuguese)
+- <a href="https://github.com/kelvins/Boas-Praticas-Cplusplus" target="_blank">Boas-Praticas-Cplusplus</a> (in Portuguese)
 - <a href="https://github.com/codespell-project/codespell" target="_blank">Check code for common misspellings</a>
 
 C++ Editors:
@@ -44,5 +44,5 @@ C++ code analysis:
 - <a href="https://caiorss.github.io/C-Cpp-Notes" target="_blank">Notes about C++11, 14 and 17, Boost, ABI, foreign function interface and reference cards.</a>
 - <a href="https://valgrind.org" target="_blank">Find Memory Leaks and Invalid Memory Use</a>
 - <a href="https://cppcheck.sourceforge.io" target="_blank">Static analysis tool</a>
-- <a href="https://pvs-studio.com/en/pvs-studio" target="_blank">PVS-Studio</a>(Free for open-source)
+- <a href="https://pvs-studio.com/en/pvs-studio" target="_blank">PVS-Studio</a> (Free for open-source)
 - <a href="https://github.com/bombela/backward-cpp" target="_blank">Stack trace pretty printer for C++</a>
