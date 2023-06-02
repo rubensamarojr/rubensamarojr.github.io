@@ -7,3 +7,5 @@ venue: 'Cold Regions Science and Technology'
 paperurl: 'http://dx.doi.org/10.1016/j.coldregions.2021.103266'
 citation: 'Amaro Junior, R. A.; Mellado-Cusicahua; A.; Shakibaeinia, A.; Cheng, L. Y. (2021). &quot;A fully Lagrangian DEM-MPS mesh-free model for ice-wave dynamics.&quot; <i>Cold Regions Science and Technology</i>, 186'
 ---
+
+Open-access ArXiv link [here.](https://arxiv.org/abs/2203.08818)

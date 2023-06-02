@@ -7,3 +7,5 @@ venue: 'Computer Methods in Applied Mechanics and Engineering'
 paperurl: 'https://doi.org/10.1016/j.cma.2022.115013'
 citation: 'Bellezi, C. A.; Cheng, L. Y.; Amaro Junior, R. A.; Tsukamoto, M. M. (2022). &quot;Border mapping multi-resolution (BMMR) technique for incompressible projection-based particle methods.&quot; <i>Computer Methods in Applied Mechanics and Engineering</i>, 396'
 ---
+
+Open-access ArXiv link [here.](https://arxiv.org/abs/2205.08310)
