@@ -11,7 +11,7 @@ author_profile: true
 {% endif %}
 -->
 
-You can also find my articles on <u><a href="{{author.googlescholar}}" target="_blank">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="https://scholar.google.com.br/citations?user=jhVWk5UAAAAJ" target="_blank">my Google Scholar profile</a>.</u>
 
 {% include base_path %}
 
