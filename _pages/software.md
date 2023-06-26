@@ -7,8 +7,9 @@ redirect_from:
   - /software.html
 ---
 
-# PolyMPS
-[PolyMPS](https://github.com/rubensamarojr/polymps) is a mesh-free Lagrangian particle-based code (C++ language) that I've written to simulate free-surface flow using the Moving Particle Simulation/Semi-implicit (MPS) method. Explicit, Weakly Compressible or Incompressible versions are available. Boundary walls can be modeled by polygonal mesh (triangles) or particles (walls and dummies).
+<img src="/images/logo_polymps.png" alt="PolyMPS logo" style="height: 50px;"/>
+
+[PolyMPS](https://github.com/rubensamarojr/polymps) is a mesh-free Lagrangian particle-based code (C++ language) to simulate free-surface flow using the Moving Particle Simulation/Semi-implicit (MPS) method. Explicit, Weakly Compressible or Incompressible versions are available. Boundary walls can be modeled by polygonal mesh (triangles) or particles (walls and dummies).
 
 # Other resources
 

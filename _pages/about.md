@@ -21,7 +21,6 @@ My experience is in the Mechanical Engineering with emphasis on dynamics of flui
 * Computer simulation
 * Meshless particle-based methods (MPS, SPH)
 * Fluid-structure interaction
-* Hydroelasticity
 
 I am developer of the open-source code <a href="https://github.com/rubensamarojr/polymps" target="_blank">PolyMPS</a>, a Lagrangian particle-based framework to simulate free-surface flows using the Moving Particle Semi-implicit (MPS) method.
 
