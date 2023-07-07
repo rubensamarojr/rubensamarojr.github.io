@@ -1,6 +1,6 @@
 ---
-title: 'Useful Softwares'
-date: 2022-07-22
+title: 'Useful Research Softwares'
+date: 2023-07-07
 permalink: /posts/2022/07/blog-post-usefull-softwares/
 tags:
   - software
@@ -38,6 +38,12 @@ Data extraction
 <a href="http://markummitchell.github.io/engauge-digitizer" target="_blank">Engauge digitizer</a> – Extracts data points from images of graphs
 
 <a href="https://physlets.org/tracker" target="_blank">Tracker</a> – Video analysis and modelling tool
+
+Bibliography manager
+----
+
+<a href="https://www.jabref.org" target="_blank">JabRef</a> – Collect, organize and discover references
+
 
 Search
 -----
