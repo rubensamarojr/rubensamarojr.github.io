@@ -23,12 +23,14 @@ Post processing of simulation
 
 <a href="https://www.paraview.org" target="_blank">Paraview</a>
 
-Video editor
+Video/Audio editor
 -----
 
 <a href="http://www.virtualdub.org" target="_blank">VirtualDub</a>
 
 <a href="https://www.openshot.org" target="_blank">Openshot</a>
+
+<a href="https://github.com/mifi/lossless-cut" target="_blank">LosslessCut</a>
 
 Data extraction
 -----
