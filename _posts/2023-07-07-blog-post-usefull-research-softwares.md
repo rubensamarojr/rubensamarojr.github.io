@@ -18,10 +18,19 @@ Code editor
 
 <a href="https://code.visualstudio.com" target="_blank">Visual Studio</a>
 
-Post processing of simulation
-------
+Data extraction from plots, images, videos, ...
+-----
 
-<a href="https://www.paraview.org" target="_blank">Paraview</a>
+<a href="https://automeris.io/WebPlotDigitizer" target="_blank">WebPlotDigitizer</a> – Web based tool to extract data from plots, images, and maps
+
+<a href="http://markummitchell.github.io/engauge-digitizer" target="_blank">Engauge digitizer</a> – Extracts data points from images of graphs
+
+<a href="https://physlets.org/tracker" target="_blank">Tracker</a> – Video analysis and modelling tool
+
+Search across files
+-----
+
+<a href="http://dngrep.github.io" target="_blank">Dngrep</a> – Search through text files, Word and Excel documents, PDFs, and archives using text, regular expression, XPath, and phonetic queries
 
 Video/Audio editor
 -----
@@ -32,22 +41,14 @@ Video/Audio editor
 
 <a href="https://github.com/mifi/lossless-cut" target="_blank">LosslessCut</a>
 
-Data extraction
------
-
-<a href="https://automeris.io/WebPlotDigitizer" target="_blank">WebPlotDigitizer</a> – Web based tool to extract data from plots, images, and maps
-
-<a href="http://markummitchell.github.io/engauge-digitizer" target="_blank">Engauge digitizer</a> – Extracts data points from images of graphs
-
-<a href="https://physlets.org/tracker" target="_blank">Tracker</a> – Video analysis and modelling tool
-
 Bibliography manager
 ----
 
-<a href="https://www.jabref.org" target="_blank">JabRef</a> – Collect, organize and discover references
+<a href="https://www.zotero.org" target="_blank">Zotero</a> - Collect, organize, annotate, cite, and share references. Export references for several formats, incluidng .bib (Latex)
 
+<a href="https://www.jabref.org" target="_blank">JabRef</a> – Collect and organize references. Export references for several formats, incluidng .xml (Windows) and .bib (Latex)
 
-Search
------
+Post processing of simulation
+------
 
-<a href="http://dngrep.github.io" target="_blank">Dngrep</a> – Search across files
+<a href="https://www.paraview.org" target="_blank">Paraview</a>
