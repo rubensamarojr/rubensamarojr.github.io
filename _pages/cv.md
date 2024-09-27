@@ -17,11 +17,11 @@ Education
 
 Work experience
 ======
-* Feb. 2022 - present: Research
+* Feb. 2022 - present: Postdoctoral Research
   * Institute of Mathematics and Computer Sciences from the University of São Paulo - ICMC-USP
   * Supervisor: Professor [Fabricio Simeoni de Sousa](https://sites.google.com/icmc.usp.br/fssousa/home)
 
-* Jun. 2021 - Dec. 2021: Research
+* Jun. 2021 - Dec. 2021: Postdoctoral Research
   * Polytechnique School of the University of São Paulo - EPUSP
   * Supervisor: Professor [Liang-Yee Cheng](http://lattes.cnpq.br/6263404177689737)
 
@@ -50,7 +50,7 @@ Skills
   * C
   * C++
   * Python
-* Engineering package
+* Engineering packages
   * Matlab
   * Scilab
   * Mathematica
