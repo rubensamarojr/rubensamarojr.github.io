@@ -1,7 +1,7 @@
 ---
 title: 'Particle methods - Numerical codes'
-date: 2021-04-27
-permalink: /posts/2021/04/blog-post-particle-codes/
+date: 2025-01-30
+permalink: /posts/2025/01/blog-post-particle-codes/
 tags:
   - particle method
   - code
@@ -47,6 +47,9 @@ SPH solver
 
 Framework for particle methods
 -----
+
+<a href="https://github.com/trixi-framework/TrixiParticles.jl" target="_blank">TrixiParticles.jl</a> - Particle-based multiphysics simulations in Julia
+
 
 <a href="https://bitbucket.org/nauticleproject" target="_blank">Nauticle</a> - General-purpose simulation tool for particle-based methods of either discrete or continuum phenomena
 

@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research (2022-2024) at the [Institute of Mathematics and Computer Sciences (ICMC)](https://www.icmc.usp.br/en) from the [University of São Paulo (USP)](https://saocarlos.usp.br/welcome-to-usp-sao-carlos), São Carlos, Brazil. 
+I am a Postdoctoral Research at the [Civil Engineering from the USP](http://ppgec.poli.usp.br/en) from the [University of São Paulo (USP)](https://www5.usp.br/#english), São Paulo, Brazil. 
 
 Before this:
 
+* I was Postdoctoral Research (2022-2024) at the [Institute of Mathematics and Computer Sciences (ICMC)](https://www.icmc.usp.br/en)
 * I was Postdoctoral Research (2021) at the [Civil Engineering from the USP](http://ppgec.poli.usp.br/en)
 * I earned my Ph.D. (2020) and Master's degree (2013) in [Civil Engineering from the USP](http://ppgec.poli.usp.br/en)
 * I graduated (2009) in [Mechanical Engineering - Automation and Systems from the USP](http://www.pmr.poli.usp.br)

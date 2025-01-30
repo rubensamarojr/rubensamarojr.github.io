@@ -1,7 +1,13 @@
 https://jayrobwilliams.com/posts/2020/06/academic-website/
 
+Navigated to the directory where your website is located
+
 command line:
 bundle exec jekyll serve
 
 browser:
 localhost:4000
+
+If it is the first after clone, delete the file Gemgile.lock and
+
+bundle install

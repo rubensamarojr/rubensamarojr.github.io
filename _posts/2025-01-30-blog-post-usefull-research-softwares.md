@@ -1,7 +1,7 @@
 ---
 title: 'Useful Research Softwares'
-date: 2023-07-07
-permalink: /posts/2022/07/blog-post-usefull-softwares/
+date: 2025-01-30
+permalink: /posts/2025/01/blog-post-usefull-softwares/
 tags:
   - software
   - code
@@ -31,6 +31,12 @@ Search across files
 -----
 
 <a href="http://dngrep.github.io" target="_blank">Dngrep</a> – Search through text files, Word and Excel documents, PDFs, and archives using text, regular expression, XPath, and phonetic queries
+
+Compare both folders and files
+----
+
+<a href="https://winmerge.org/" target="_blank">Winmerge</a>
+
 
 Video/Audio editor
 -----

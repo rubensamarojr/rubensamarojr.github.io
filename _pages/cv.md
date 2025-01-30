@@ -11,13 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mechatronics Engineering, Polytechnique School of the University of São Paulo (EPUSP), 2009
-* M.S. in Civil Engineering, Polytechnique School of the University of São Paulo (EPUSP), 2013
 * Ph.D in Civil Engineering, Polytechnique School of the University of São Paulo (EPUSP), 2020
+* M.S. in Civil Engineering, Polytechnique School of the University of São Paulo (EPUSP), 2013
+* B.S. in Mechatronics Engineering, Polytechnique School of the University of São Paulo (EPUSP), 2009
 
 Work experience
 ======
-* Feb. 2022 - present: Postdoctoral Research
+* Jun. 2024 - present: Postdoctoral Research
+  * Polytechnique School of the University of São Paulo - EPUSP
+  * Supervisor: Professor [Liang-Yee Cheng](http://lattes.cnpq.br/6263404177689737)
+
+* Feb. 2022 - 2024: Postdoctoral Research
   * Institute of Mathematics and Computer Sciences from the University of São Paulo - ICMC-USP
   * Supervisor: Professor [Fabricio Simeoni de Sousa](https://sites.google.com/icmc.usp.br/fssousa/home)
 
@@ -25,13 +29,13 @@ Work experience
   * Polytechnique School of the University of São Paulo - EPUSP
   * Supervisor: Professor [Liang-Yee Cheng](http://lattes.cnpq.br/6263404177689737)
 
-* Oct. 2010 - Dec 2021: Research
-  * Numerical Offshore Tank Laboratory of the University of São Paulo - TPN-USP
-  * Supervisor: Professor [Liang-Yee Cheng](http://lattes.cnpq.br/6263404177689737)
-
 * Oct. 2018 - Apr. 2019: Research Intern
   * Polytechnique Montreal
   * Supervisor: Professor [Ahmad Shakibaeinia](http://www.professeurs.polymtl.ca/ahmad.shakibaeinia)
+
+* Oct. 2010 - Dec 2021: Research
+  * Numerical Offshore Tank Laboratory of the University of São Paulo - TPN-USP
+  * Supervisor: Professor [Liang-Yee Cheng](http://lattes.cnpq.br/6263404177689737)
 
 * May 2009 - Dec. 2009: Intern
   * Institute for Technological Research (IPT)

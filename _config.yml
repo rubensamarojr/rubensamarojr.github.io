@@ -79,34 +79,46 @@ analytics:
 
 # Site Author
 author:
+  # Biographic information
   name             : "Rubens A. Amaro Jr."
   avatar           : "rubens_aula_03.jpg"
+  pronouns         : # example: "she/her"
   bio              : "Postdoctoral Research"
   location         : "São Paulo, Brazil"
   employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.br/citations?user=jhVWk5UAAAAJ"
+  uri              :
   email            : "rubens.amaro@usp.br"
+
+  # Academic websites
+  arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com.br/citations?user=jhVWk5UAAAAJ"
+  impactstory      : # URL
+  orcid            : "https://www.scopus.com/authid/detail.uri?authorId=55984419500"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Rubens-Amaro-Junior"
   lattes           : "http://lattes.cnpq.br/5261068221495559"
-  uri              :
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=55984419500"
+
+  # Repositories and software development
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "rubensamarojr"
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+
+  # Social media
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "rubens-augusto-amaro-junior-997830294"
-  orcid            : "http://orcid.org/0000-0003-1568-5447"
+  flickr           :
+  facebook         :
+  foursquare       :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : "amarorubens"
