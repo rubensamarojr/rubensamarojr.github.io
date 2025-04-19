@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research at the [Civil Engineering from the USP](http://ppgec.poli.usp.br/en) from the [University of São Paulo (USP)](https://www5.usp.br/#english), São Paulo, Brazil. 
+I am a Postdoctoral fellow in [Civil Construction Engineering](http://ppgec.poli.usp.br/en) at the [University of São Paulo (USP)](https://www5.usp.br/#english), Brazil.
 
 Before this:
 
-* I was Postdoctoral Research (2022-2024) at the [Institute of Mathematics and Computer Sciences (ICMC)](https://www.icmc.usp.br/en)
-* I was Postdoctoral Research (2021) at the [Civil Engineering from the USP](http://ppgec.poli.usp.br/en)
-* I earned my Ph.D. (2020) and Master's degree (2013) in [Civil Engineering from the USP](http://ppgec.poli.usp.br/en)
-* I graduated (2009) in [Mechanical Engineering - Automation and Systems from the USP](http://www.pmr.poli.usp.br)
+* I was Postdoctoral fellow (2022-2024) in the [Institute of Mathematics and Computer Sciences (ICMC-USP)](https://www.icmc.usp.br/en)
+* I was Postdoctoral fellow (2021) in the [Civil Construction Engineering at USP](http://ppgec.poli.usp.br/en)
+* I earned my Ph.D. (2020) and Master's degree (2013) in [Civil Construction Engineering at USP](http://ppgec.poli.usp.br/en)
+* I graduated (2009) in [Mechanical Engineering - Automation and Systems at USP](http://www.pmr.poli.usp.br)
 
 My experience is in the Mechanical Engineering with emphasis on dynamics of fluids and elastic/rigid bodies, working mainly on the following topics: 
 
