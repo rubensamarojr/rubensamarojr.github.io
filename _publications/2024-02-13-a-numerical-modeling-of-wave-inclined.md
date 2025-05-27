@@ -8,3 +8,5 @@ paperurl: 'https://doi.org/10.1016/j.oceaneng.2024.116699'
 pubtype: 'journal'
 citation: 'Pereira, L. S.; Amaro Jr., R. A.; Cheng, L. Y.; Sousa, F. S.; Karuka, G. M. (2024). &quot;A numerical modeling of wave-inclined slats interaction for particle methods.&quot; <i>Ocean Engineering</i>, 296'
 ---
+
+Open-access ArXiv link <a href="https://doi.org/10.48550/arXiv.2501.09145" target="_blank">here</a>
