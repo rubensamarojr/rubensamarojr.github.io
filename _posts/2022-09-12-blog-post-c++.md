@@ -1,5 +1,5 @@
 ---
-title: 'Useful C++ and Python links'
+title: 'C++ and other languages'
 date: 2022-09-12
 permalink: /posts/2022/09/blog-post-c++/
 tags:
@@ -10,19 +10,18 @@ tags:
   - cheatsheet
 ---
 
-Here you can find a list of useful links about C++ and other languages, e.g., Python, Julia, Matlab
-
+Material about C++ and other languages, e.g., Python, Julia, Matlab
 
 Collection of various C++ learning resources
-- <a href="https://hackingcpp.com/index.html" target="_blank">hacking C++</a>
+- <a href="https://hackingcpp.com/cpp/beginners_guide.html" target="_blank">hacking C++</a>
+
+C++ Beginner lessons
+<a href="https://www.youtube.com/watch?v=vLnPwxZdW4Y" target="_blank">youtube video</a>
 
 Cheatsheets (C++, Python, Julia, Matlab)
 - <a href="https://www.codewithharry.com/blogpost/cpp-cheatsheet" target="_blank">C++ Cheatsheet</a>
 - <a href="https://www.codewithharry.com/tutorial/python" target="_blank">Python Cheatsheet</a>
 - <a href="https://cheatsheets.quantecon.org" target="_blank">MATLAB–Python–Julia cheatsheet</a>
-
-C++ Beginner lessons
-<a href="https://www.youtube.com/watch?v=vLnPwxZdW4Y" target="_blank">youtube video</a>
 
 Fundamentals of C++ for numerical simulation
 <a href="https://mooseframework.inl.gov/help/c++/index.html" target="_blank">mooseframework</a>
@@ -30,7 +29,7 @@ Fundamentals of C++ for numerical simulation
 Visualize C++ code execution to learn online
 <a href="http://pythontutor.com/cpp.html#mode=edit" target="_blank">pythontutor</a>
 
-Good practices of C++:
+Good practices for C++:
 - <a href="https://google.github.io/styleguide/cppguide.html" target="_blank">Google C++ Style Guide</a>
 - <a href="http://geosoft.no/development/cppstyle.html" target="_blank">C++ Programming Style Guidelines</a>
 - <a href="https://github.com/kelvins/Boas-Praticas-Cplusplus" target="_blank">Boas-Praticas-Cplusplus</a> (in Portuguese)

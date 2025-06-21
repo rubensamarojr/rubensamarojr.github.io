@@ -11,7 +11,7 @@ tags:
   - sph
 ---
 
-Extensive list of numerical codes related to particle methods.
+Extensive list of numerical codes and frameworks related to particle methods.
 
 MPS solver
 ------
@@ -49,7 +49,6 @@ Framework for particle methods
 -----
 
 <a href="https://github.com/trixi-framework/TrixiParticles.jl" target="_blank">TrixiParticles.jl</a> - Particle-based multiphysics simulations in Julia
-
 
 <a href="https://bitbucket.org/nauticleproject" target="_blank">Nauticle</a> - General-purpose simulation tool for particle-based methods of either discrete or continuum phenomena
 

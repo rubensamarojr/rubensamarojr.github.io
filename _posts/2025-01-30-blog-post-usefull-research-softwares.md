@@ -18,6 +18,11 @@ Code editor
 
 <a href="https://code.visualstudio.com" target="_blank">Visual Studio</a>
 
+Post processing of simulation
+------
+
+<a href="https://www.paraview.org" target="_blank">Paraview</a>
+
 Data extraction from plots, images, videos, ...
 -----
 
@@ -32,10 +37,10 @@ Search across files
 
 <a href="http://dngrep.github.io" target="_blank">Dngrep</a> – Search through text files, Word and Excel documents, PDFs, and archives using text, regular expression, XPath, and phonetic queries
 
-Compare both folders and files
+Compare folders or files
 ----
 
-<a href="https://winmerge.org/" target="_blank">Winmerge</a>
+<a href="https://winmerge.org" target="_blank">Winmerge</a>
 
 
 Video/Audio editor
@@ -53,8 +58,3 @@ Bibliography manager
 <a href="https://www.zotero.org" target="_blank">Zotero</a> - Collect, organize, annotate, cite, and share references. Export references for several formats, incluidng .bib (Latex)
 
 <a href="https://www.jabref.org" target="_blank">JabRef</a> – Collect and organize references. Export references for several formats, incluidng .xml (Windows) and .bib (Latex)
-
-Post processing of simulation
-------
-
-<a href="https://www.paraview.org" target="_blank">Paraview</a>

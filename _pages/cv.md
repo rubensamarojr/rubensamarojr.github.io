@@ -19,23 +19,23 @@ Work experience
 ======
 * Jun. 2024 - present: Postdoctoral Research
   * Polytechnique School of the University of São Paulo - EPUSP
-  * Supervisor: Professor [Liang-Yee Cheng](http://lattes.cnpq.br/6263404177689737)
+  * Supervisor: Professor <a href="http://lattes.cnpq.br/6263404177689737" target="_blank">Liang-Yee Cheng</a>
 
 * Feb. 2022 - 2024: Postdoctoral Research
   * Institute of Mathematics and Computer Sciences from the University of São Paulo - ICMC-USP
-  * Supervisor: Professor [Fabricio Simeoni de Sousa](https://sites.google.com/icmc.usp.br/fssousa/home)
+  * Supervisor: Professor <a href="https://sites.google.com/icmc.usp.br/fssousa/home" target="_blank">Fabricio Simeoni de Sousa</a>
 
 * Jun. 2021 - Dec. 2021: Postdoctoral Research
   * Polytechnique School of the University of São Paulo - EPUSP
-  * Supervisor: Professor [Liang-Yee Cheng](http://lattes.cnpq.br/6263404177689737)
+  * Supervisor: Professor <a href="http://lattes.cnpq.br/6263404177689737" target="_blank">Liang-Yee Cheng</a>
 
 * Oct. 2018 - Apr. 2019: Research Intern
   * Polytechnique Montreal
-  * Supervisor: Professor [Ahmad Shakibaeinia](http://www.professeurs.polymtl.ca/ahmad.shakibaeinia)
+  * Supervisor: Professor <a href="http://www.professeurs.polymtl.ca/ahmad.shakibaeinia" target="_blank">Ahmad Shakibaeinia</a>
 
 * Oct. 2010 - Dec 2021: Research
   * Numerical Offshore Tank Laboratory of the University of São Paulo - TPN-USP
-  * Supervisor: Professor [Liang-Yee Cheng](http://lattes.cnpq.br/6263404177689737)
+  * Supervisor: Professor <a href="http://lattes.cnpq.br/6263404177689737" target="_blank">Liang-Yee Cheng</a>
 
 * May 2009 - Dec. 2009: Intern
   * Institute for Technological Research (IPT)

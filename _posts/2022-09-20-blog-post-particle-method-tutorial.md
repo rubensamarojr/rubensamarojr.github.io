@@ -12,9 +12,9 @@ tags:
   - python
 ---
 
-Below, you can find a very good material to learn about particle methods.
+The following material offers a comprehensive introduction to particle methods.
 
-State-of-the-art simulation methods for rigid bodies, deformable solids and fluids (including SPH)
+Simulation methods for fluid, rigid and deformable bodies in Computer Graphics (including SPH)
 - <a href="https://interactivecomputergraphics.github.io/physics-simulation" target="_blank">Physics Simulation</a>
 - <a href="https://interactivecomputergraphics.github.io/SPH-Tutorial" target="_blank">SPH course</a>
 
