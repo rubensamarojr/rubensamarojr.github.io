@@ -1,7 +1,7 @@
 ---
 title: 'Useful Research Softwares'
-date: 2025-01-30
-permalink: /posts/2025/01/blog-post-usefull-softwares/
+date: 2026-01-09
+permalink: /posts/2026/01/blog-post-usefull-softwares/
 tags:
   - software
   - code
@@ -48,6 +48,8 @@ Video/Audio editor
 
 <a href="http://www.virtualdub.org" target="_blank">VirtualDub</a>
 
+<a href="https://avs-plus.net" target="_blank">AviSynthPlus</a> A script-based engine to be used with VirtualDub
+
 <a href="https://www.openshot.org" target="_blank">Openshot</a>
 
 <a href="https://github.com/mifi/lossless-cut" target="_blank">LosslessCut</a>
@@ -55,6 +57,6 @@ Video/Audio editor
 Bibliography manager
 ----
 
-<a href="https://www.zotero.org" target="_blank">Zotero</a> - Collect, organize, annotate, cite, and share references. Export references for several formats, incluidng .bib (Latex)
+<a href="https://www.jabref.org" target="_blank">JabRef</a> – Collect and organize references. Export references for several formats, incluidng .xml (Word Office) and .bib (Latex)
 
-<a href="https://www.jabref.org" target="_blank">JabRef</a> – Collect and organize references. Export references for several formats, incluidng .xml (Windows) and .bib (Latex)
+<a href="https://www.zotero.org" target="_blank">Zotero</a> - Collect, organize, annotate, cite, and share references. Export references for several formats, incluidng .bib (Latex)

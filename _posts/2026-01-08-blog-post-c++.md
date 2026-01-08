@@ -1,7 +1,7 @@
 ---
 title: 'C++ and other languages'
-date: 2022-09-12
-permalink: /posts/2022/09/blog-post-c++/
+date: 2026-01-08
+permalink: /posts/2026/01/blog-post-c++/
 tags:
   - code
   - c++
@@ -14,6 +14,9 @@ Material about C++ and other languages, e.g., Python, Julia, Matlab
 
 Collection of various C++ learning resources
 - <a href="https://hackingcpp.com/cpp/beginners_guide.html" target="_blank">hacking C++</a>
+
+C++ Roadmap with short explanations
+- <a href="https://roadmap.sh/cpp" target="_blank">C++ Developer Roadmap</a>
 
 C++ Beginner lessons
 <a href="https://www.youtube.com/watch?v=vLnPwxZdW4Y" target="_blank">youtube video</a>
@@ -43,5 +46,5 @@ C++ code analysis:
 - <a href="https://caiorss.github.io/C-Cpp-Notes" target="_blank">Notes about C++11, 14 and 17, Boost, ABI, foreign function interface and reference cards.</a>
 - <a href="https://valgrind.org" target="_blank">Find Memory Leaks and Invalid Memory Use</a>
 - <a href="https://cppcheck.sourceforge.io" target="_blank">Static analysis tool</a>
-- <a href="https://pvs-studio.com/en/pvs-studio" target="_blank">PVS-Studio</a> (Free for open-source)
+- <a href="https://pvs-studio.com/en/pvs-studio" target="_blank">PVS-Studio</a> (Free for open-source projects)
 - <a href="https://github.com/bombela/backward-cpp" target="_blank">Stack trace pretty printer for C++</a>
