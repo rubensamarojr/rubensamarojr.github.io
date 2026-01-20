@@ -90,7 +90,7 @@ author:
   email            : "rubens.amaro@usp.br"
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "http://arxiv.org/a/amaro_r_1"
   googlescholar    : "https://scholar.google.com.br/citations?user=jhVWk5UAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-1568-5447"
@@ -199,6 +199,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  students:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -256,6 +259,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _students
+  - scope:
+      path: ""
+      type: students
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 # Sass/SCSS
 sass:

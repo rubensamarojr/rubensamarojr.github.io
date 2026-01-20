@@ -11,3 +11,7 @@ localhost:4000
 If it is the first after clone, delete the file Gemgile.lock and
 
 bundle install
+
+
+Git
+Usar git bash
