@@ -8,5 +8,3 @@ paperurl: 'https://doi.org/10.1007/s40571-019-00233-4'
 pubtype: 'journal'
 citation: 'Amaro Junior, R. A.; Cheng, L. Y.; Osello, P. S. (2019). &quot;An improvement of rigid bodies contact for particle-based non-smooth walls modeling.&quot; <i>Computational Particle Mechanics</i>, 6(4): 561-580'
 ---
-
-<!-- Link to the <a href="https://link.springer.com/epdf/10.1007/s40571-019-00233-4?author_access_token=eoBFOwPXK6crb_yWkQhC1_e4RwlQNchNByi7wbcMAY5gazny7yWTks5JUr1GdnXd0h7qj5DWsi41TToufkKWKa5Y964Yo_hbhcg7hPaiKH1wFjjf91QqMknHVJam_OmGwAxHyFVxFF04cbq9NXmFJA%3D%3D" target="_blank">full-text view-only version</a> -->
